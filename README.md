@@ -6,29 +6,26 @@
 
   Hi. I'm Abi. 👋 \
   16y / 🇦🇷. \
-  I make stuff. \
+  I make stuff.
   
   [🌐 website](https://github.com/abisrc 'website soon :)') \
   [📧 email](mailto: 'email soon')
 </details>
 
 <details>
-  <summary>📊 Some stats of me</summary>
+  <summary>📊 My languages and tools</summary>
   
 ![My github stats!](https://github-readme-stats.vercel.app/api?username=abisrc&show_icons=true&custom_title=My%20Github%20Stats:&line_height=33&include_all_commits=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd&hide_border=true&hide_title=true#gh-dark-mode-only) \
 ![My top langauges](https://github-readme-stats.vercel.app/api/top-langs?username=abisrc&show_icons=true&layout=compact&card_width=645&bg_color=00000000&title_color=00CCAA&text_color=dddddd&hide_border=true&hide_title=true#gh-dark-mode-only)
 </details>
 
 <details>
-  <summary>🌸 My recent AniList activity</summary>
+  <summary>📊 Some stats of me</summary>
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Completed [Tokyo Revengers](https://anilist.co/manga/102988) (18:13 15 November 2022)
--   📖 Read chapter 277 of [Tokyo Revengers](https://anilist.co/manga/102988) (18:13 15 November 2022)
--   📖 Read chapter 110 of [Chainsaw Man](https://anilist.co/manga/105778) (10:50 09 November 2022)
--   📖 Read chapter 45 - 46 of [My Dress-Up Darling](https://anilist.co/manga/101583) (08:47 04 November 2022)
--   📖 Read chapter 109 of [Chainsaw Man](https://anilist.co/manga/105778) (16:24 03 November 2022)
+![My github stats!](https://github-readme-stats.vercel.app/api?username=abisrc&show_icons=true&custom_title=My%20Github%20Stats:&line_height=33&include_all_commits=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd&hide_border=true&hide_title=true#gh-dark-mode-only) \
+![My top langauges](https://github-readme-stats.vercel.app/api/top-langs?username=abisrc&show_icons=true&layout=compact&card_width=645&bg_color=00000000&title_color=00CCAA&text_color=dddddd&hide_border=true&hide_title=true#gh-dark-mode-only)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
