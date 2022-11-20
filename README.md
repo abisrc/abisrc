@@ -1,6 +1,6 @@
 <a href="https://discord.com/users/876264941399719956"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/876264941399719956?bg=00000000" /></a>
 
-<a href="https://pxseu.com/"><img src="./assets/logo.png" height="110" /></a>
+<a href="https://pxseu.com/"><img src="./assets/logo.gif" height="110" /></a>
 <details>
   <summary><b>📋 About</b></summary>
 
