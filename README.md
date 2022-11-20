@@ -8,8 +8,9 @@
   > 16y / 🇦🇷. \
   > I make stuff.
   
-  [🌐 website](https://github.com/abisrc 'website soon :)') \
-  [📧 email](mailto: 'email soon')
+  [🕊 twitter](https://twitter.com/abisoles 'my twitter uwu')
+  [⚙ discord](https://discord.gg/GtABQ4PyjQ 'my discord owo')
+  [🌐 website](https://github.com/abisrc 'website soon :c')
 </details>
 
 <details>
