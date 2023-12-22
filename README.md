@@ -4,12 +4,11 @@
 <details>
   <summary><b>📋 About</b></summary>
 
-  > hey there. I'm Abi. 👋 \
-  > 16y / 🇦🇷. \
-  > I make stuff.
+  > hey there \
+  > 17y / 🇦🇷. \
   
-  [🕊 twitter](https://twitter.com/abisoles 'my twitter uwu')
-  [⚙ discord](https://discord.gg/GtABQ4PyjQ 'my discord owo')
+  [🕊 twitter](https://twitter.com/abrilkjj 'twitter')
+  [⚙ discord](https://discord.gg/GtABQ4PyjQ 'ds')
   [🌐 website](https://github.com/abisrc 'website soon :c')
 </details>
 
@@ -22,7 +21,6 @@
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  
 > And improving even more in other things!
